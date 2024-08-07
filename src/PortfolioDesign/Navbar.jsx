@@ -33,19 +33,19 @@ const Navbar = () => {
           <div>
             <ul className="hidden md:flex space-x-8">
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#home">Home</a>
+                <a href="https://newportfoliocv.netlify.app/#home">Home</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#experience">Experience</a>
+                <a href="https://newportfoliocv.netlify.app/#experience">Experience</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#skills">Skills</a>{" "}
+                <a href="https://newportfoliocv.netlify.app/#skills">Skills</a>{" "}
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#projects">Projects</a>
+                <a href="https://newportfoliocv.netlify.app/#projects">Projects</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#contact">Contact</a>
+                <a href="https://newportfoliocv.netlify.app/#contact">Contact</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
                 <button
@@ -69,19 +69,19 @@ const Navbar = () => {
           <div className="bg-white">
             <ul className="md:hidden flex flex-col h-auto items-center justify-center space-y-4">
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#home">Home</a>
+                <a href="https://newportfoliocv.netlify.app/#home">Home</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#experience">Experience</a>
+                <a href="https://newportfoliocv.netlify.app/#experience">Experience</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#skills">Skills</a>
+                <a href="https://newportfoliocv.netlify.app/#skills">Skills</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#projects">Projects</a>
+                <a href="https://newportfoliocv.netlify.app/#projects">Projects</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
-                <a href="http:#contact">Contact</a>
+                <a href="https://newportfoliocv.netlify.app/#contact">Contact</a>
               </li>
               <li className="hover:scale-105 duration-200 cursor-pointer">
                 <button

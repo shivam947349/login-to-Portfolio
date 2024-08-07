@@ -26,7 +26,7 @@ const Experience = () => {
                   <span>
                     <GoDotFill className="mt-1" />
                   </span>{" "}
-                  1 year of professional experience in IT - Manual Testing and
+                  2 years of professional experience in IT – Manual Testing and
                   API Testing
                 </li>
                 <li className=" flex mx-10 md:w-5/6 text-[13px]">
